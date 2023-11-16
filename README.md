@@ -5,6 +5,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
 </p>
 
+#### _Links_
+* <a href="https://github.com/F3N215/Refactoring-Accessibility-Challenge/blob/8478c7353dc4eded0aeb73a51bb0498a517d806c/index.html">HTML</a>
+* <a href="https://github.com/F3N215/Refactoring-Accessibility-Challenge/blob/8478c7353dc4eded0aeb73a51bb0498a517d806c/assets/css/style.css">CSS</a> 
+
 -----
 ## Project Summary 📋
 * This project was a prime example of working with existing code to refactor and update an existing page to match accessibility criteria. Working with Horieson, a full-service digital marketing agency, I was tasked with assessing and updating code on Horieson's website assigned by my tech lead.
