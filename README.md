@@ -20,7 +20,7 @@
 
 -----
 ## Screenshots 📸
-<img src="Screenshot-1.png" alt="Nav bar and hero image"> 
-<img src="Screenshot-2.png" alt="Sections and sidebar">
-<img src="Screenshot-3.png" alt="Final section and footer">
-<img src="Screenshot-4.png" alt="Fullscreen image">
+<img src="assets/images/Screenshot-1.png" alt="Nav bar and hero image"> 
+<img src="assets/images/Screenshot-2.png" alt="Sections and sidebar">
+<img src="assets/images/Screenshot-3.png" alt="Final section and footer">
+<img src="assets/images/Screenshot-4.png" alt="Fullscreen image">
