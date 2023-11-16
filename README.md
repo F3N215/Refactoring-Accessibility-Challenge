@@ -24,3 +24,18 @@
 <img src="assets/images/Screenshot-2.png" alt="Sections and sidebar">
 <img src="assets/images/Screenshot-3.png" alt="Final section and footer">
 <img src="assets/images/Screenshot-4.png" alt="Fullscreen image">
+
+-----
+## About Me
+<h1 align="center">Hey there 👋 I'm Dan Campo</h1>
+<h3 align="center">I'm a junior fullstack webdev in training</h3>
+
+* 🔭 I’m currently working on occult projects & personal pages
+* 🌱 I’m currently learning HTML5, CSS, & JavaScript
+* 📫 Email me **dcampo85@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/danjohnwrites" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danjohnwrites" height="30" width="40" /></a>
+<a href="https://instagram.com/direblackandwhite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="direblackandwhite" height="30" width="40" /></a>
+</p>
