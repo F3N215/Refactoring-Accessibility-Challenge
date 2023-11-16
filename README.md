@@ -16,7 +16,7 @@
 * Added accessible alt attributes to images on the site.
 * Added new title, and revised headings into chronological order (ie. h1 -> h6) based on the importance of information therein.
 *  **Scout Rule** Adherence: consolidated CSS selectors and properties for a cleaner, more organized flow.
-*  Comments added to CSS consolidation for faster navigation
+*  Comments added to CSS consolidation for faster navigation.
 
 -----
 ## Screenshots 📸
@@ -27,10 +27,9 @@
 
 -----
 ## About Me
-<h3 align="left">Hey there 👋 I'm Dan Campo</h3>
-<h4 align="left">I'm a junior fullstack webdev in training</h4>
+<h3 align="left">Hey there! I'm Dan 👋 I'm a junior fullstack webdev</h3>
 
-* 🔭 I’m currently working on occult projects & personal pages
+* 🔭 I’m currently working on occult projects, SMBs & personal pages
 * 🌱 I’m currently learning HTML5, CSS, & JavaScript
 * 📫 Email me **dcampo85@gmail.com**
 
