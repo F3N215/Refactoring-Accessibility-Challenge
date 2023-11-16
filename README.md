@@ -33,7 +33,7 @@
 * 🌱 I’m currently learning HTML5, CSS, & JavaScript
 * 📫 Email me **dcampo85@gmail.com**
 
-<h5 align="left">Connect with me:</h5>
+<h6 align="left">Connect with me:</h6>
 <p align="left">
 <a href="https://twitter.com/danjohnwrites" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danjohnwrites" height="30" width="40" /></a>
 <a href="https://instagram.com/direblackandwhite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="direblackandwhite" height="30" width="40" /></a>
