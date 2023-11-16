@@ -7,7 +7,7 @@
 
 -----
 ## Project Summary 📋
-* This project was a prime example of working with existing code to refactor and update an existing page to match accessibility criteria. Working with digital marketing agency Horieson, I was tasked with assessing and updating code on Horieson's website assigned by my tech lead.
+* This project was a prime example of working with existing code to refactor and update an existing page to match accessibility criteria. Working with Horieson, a full-service digital marketing agency, I was tasked with assessing and updating code on Horieson's website assigned by my tech lead.
 * By working to improve the HTML code without changing how it functions, and keeping the overall page within 90% of its likeness, I worked to ensure that Horieson's website adheres to accessibility criteria to ensure people with disabilities can still capably use the site. 
 
 -----
@@ -20,3 +20,4 @@
 
 -----
 ## Screenshots 📸
+
