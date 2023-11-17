@@ -21,6 +21,7 @@
 * Added new title, and revised headings into chronological order (ie. h1 -> h6) based on the importance of information therein.
 *  **Scout Rule** Adherence: consolidated CSS selectors and properties for a cleaner, more organized flow.
 *  Comments added to CSS consolidation for faster navigation.
+*  Used Chrome extension WAVE to test final page for accessibility.
 
 -----
 ## Screenshots 📸
